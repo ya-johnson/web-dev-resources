@@ -9,7 +9,7 @@ Inspired by [Awesome Web Development Resources](https://github.com/MarkoDenic/we
 
 ## Table of Content
 
-- [Developer Roadmaps](#-developer-roadmaps)
+- [Developer Roadmaps](#developer-roadmaps)
 - [Documentations](#-documentations)
 - [Learning Platforms](#-learning-platforms)
 - [Blogs](#-blogs)
