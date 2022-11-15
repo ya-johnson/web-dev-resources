@@ -38,6 +38,7 @@ Inspired by [Awesome Web Development Resources](https://github.com/MarkoDenic/we
 - [YouTube Channels](#-youtube-channels)
 - [Resume](#-resume)
 
+
 ---
 
 ## Resources
