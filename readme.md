@@ -17,8 +17,10 @@ Inspired by [Awesome Web Development Resources](https://github.com/MarkoDenic/we
 - [Projects](#-projects)
 - [How the Web works](#-how-the-web-works)
 - [JavaScript](#-javascript)
-- [Node.js](#-nodejs)
 - [React](#-react)
+- [Svelte](#-svelte)
+- [Node.js](#-nodejs)
+- [Python](#-python)
 - [APIs](#-apis)
 - [Git](#-git)
 - [Architecture](#-architecture)
@@ -157,6 +159,23 @@ Inspired by [Awesome Web Development Resources](https://github.com/MarkoDenic/we
 - [JavaScript Implementation of various data structures and algorithms](https://github.com/saalikmubeen/datastructures-and-algorithms)
 
 
+### ReactJS
+
+- [React](https://reactjs.org) - Official site - Documentation, tutrials.
+- [React.express](https://www.react.express/)
+- [Awesome React](https://github.com/enaqx/awesome-react)
+- [ReactJsExampels](https://reactjsexample.com/) - Neverending collection of often useful examples done in React.js.
+- [React Redux links](https://github.com/markerikson/react-redux-links)
+- [Entire React code base explanation by visual block schemes](https://reactjsexample.com/entire-react-code-base-explanation-by-visual-block-schemes/)
+- [React Icons](https://react-icons.github.io/react-icons/)
+
+
+### SvelteJS
+
+- [Svelte](https;//svelte.dev) - Official site - Documentation, tutorials.
+- [Svelte Society](https://sveltesociety.dev/) - Resources, tools, templates, recipes and more. 
+
+
 ### NodeJS
 
 - [Node.Js](https://nodejs.org/en/docs/) - Official site - Documentation.
@@ -172,15 +191,14 @@ Inspired by [Awesome Web Development Resources](https://github.com/MarkoDenic/we
 - [Code Realm - Authentication on the Web (Sessions, Cookies, JWT, localStorage, and more)](https://www.youtube.com/watch?v=2PPSXonhIck)
 
 
-### ReactJS
-
-- [React](https://reactjs.org) - Official site - Documentation.
-- [React.express](https://www.react.express/)
-- [Awesome React](https://github.com/enaqx/awesome-react)
-- [ReactJsExampels](https://reactjsexample.com/) - Neverending collection of often useful examples done in React.js.
-- [React Redux links](https://github.com/markerikson/react-redux-links)
-- [Entire React code base explanation by visual block schemes](https://reactjsexample.com/entire-react-code-base-explanation-by-visual-block-schemes/)
-- [React Icons](https://react-icons.github.io/react-icons/)
+### Python
+- [Eric Matthes - Python Crash Course](https://ehmatthes.github.io/pcc_2e/regular_index/)
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+- [Learn Python - Free Interactive Python Tutorial](https://www.learnpython.org/)
+- [Python for Everybody](https://www.py4e.com/)
+- [Full Stack Python](https://www.fullstackpython.com/)
+- [Practical Python Programming](https://dabeaz-course.github.io/practical-python/Notes/Contents.html)
+- [Corey Schafer - Python Tutorials](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
 
 
 ### APIs
@@ -223,6 +241,7 @@ Inspired by [Awesome Web Development Resources](https://github.com/MarkoDenic/we
 - [Mastering Modular JavaScript](https://github.com/mjavascript/mastering-modular-javascript) - Module thinking, principles, design patterns and best practices.
 - [Design Patterns in Javascript ES6](https://github.com/tcorral/Design-Patterns-in-Javascript) - Design Patterns applied to Javascript code.
 - [PatternifyJS - JavaScript Design Patterns](https://github.com/Badacadabra/JavaScript-Design-Patterns) - ES5 + ES6 + CoffeeScript + TypeScript design patterns with some theory, real-world examples and UML diagrams.
+- [Awesome FP JS](https://github.com/stoeffel/awesome-fp-js)
 
 
 ### HTML and CSS
