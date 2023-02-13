@@ -193,6 +193,10 @@ Inspired by [Awesome Web Development Resources](https://github.com/MarkoDenic/we
 
 
 ### Python
+
+- [Python.org - The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
+- [AlphaCodingSkills - Python](https://www.alphacodingskills.com/python/python-tutorial.php)
+- [Real Python](https://realpython.com/)
 - [Eric Matthes - Python Crash Course](https://ehmatthes.github.io/pcc_2e/regular_index/)
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 - [Learn Python - Free Interactive Python Tutorial](https://www.learnpython.org/)
@@ -200,6 +204,14 @@ Inspired by [Awesome Web Development Resources](https://github.com/MarkoDenic/we
 - [Full Stack Python](https://www.fullstackpython.com/)
 - [Practical Python Programming](https://dabeaz-course.github.io/practical-python/Notes/Contents.html)
 - [Corey Schafer - Python Tutorials](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
+
+#### Django
+
+- [MDN - Djando Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
+
+#### Fast API
+- [Fast API Documentation](https://fastapi.tiangolo.com/)
+- [Using FastAPI to Build Python Web APIs - Real Python](https://realpython.com/fastapi-python-web-apis/)
 
 
 ### APIs
