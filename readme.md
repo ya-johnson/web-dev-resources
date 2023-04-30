@@ -256,6 +256,10 @@ Inspired by [Awesome Web Development Resources](https://github.com/MarkoDenic/we
 - [PatternifyJS - JavaScript Design Patterns](https://github.com/Badacadabra/JavaScript-Design-Patterns) - ES5 + ES6 + CoffeeScript + TypeScript design patterns with some theory, real-world examples and UML diagrams.
 - [Awesome FP JS](https://github.com/stoeffel/awesome-fp-js)
 
+#### Functional Programming in JS/TS
+
+- [Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbook.io/mostly-adequate-guide/)
+- [Awesome FP JS](https://github.com/stoeffel/awesome-fp-js)
 
 ### HTML and CSS
 
