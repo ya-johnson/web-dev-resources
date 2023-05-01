@@ -139,6 +139,11 @@ Inspired by [Awesome Web Development Resources](https://github.com/MarkoDenic/we
 - [Regulex](https://jex.im/regulex/#!flags=&re=%5E(a%7Cb)*%3F%24) - JavaScript Regular Expression Visualizer.
 
 
+#### TypeScript
+
+- [TypeScript Deep Dive](https://basarat.gitbook.io/typescript/)
+- [TypeScript TV](https://typescript.tv/)
+
 #### Books
 
 - [Eloquent JavaScript](https://eloquentjavascript.net) - A book about JavaScript programming.
@@ -148,6 +153,7 @@ Inspired by [Awesome Web Development Resources](https://github.com/MarkoDenic/we
 
 - [Clean code Javascript](https://github.com/ryanmcdermott/clean-code-javascript) - A tool for visualizing Execution Context, Hoisting, Closures, and Scopes in JavaScript.
 - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
+
 
 #### Other
 
@@ -259,6 +265,8 @@ Inspired by [Awesome Web Development Resources](https://github.com/MarkoDenic/we
 #### Functional Programming in JS/TS
 
 - [Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbook.io/mostly-adequate-guide/)
+- [Mostly Adequate with FP-TS library](https://cjonas.gitbook.io/mostly-adequate-fp-ts/)
+- [FP-TS - Typed functional programming in TypeScript](https://gcanti.github.io/fp-ts/) 
 - [Awesome FP JS](https://github.com/stoeffel/awesome-fp-js)
 
 ### HTML and CSS
