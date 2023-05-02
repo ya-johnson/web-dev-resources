@@ -266,6 +266,7 @@ Inspired by [Awesome Web Development Resources](https://github.com/MarkoDenic/we
 
 - [Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbook.io/mostly-adequate-guide/)
 - [Mostly Adequate with FP-TS library](https://cjonas.gitbook.io/mostly-adequate-fp-ts/)
+- [Learn how to create types for curry and Ramda](https://www.freecodecamp.org/news/typescript-curry-ramda-types-f747e99744ab/)
 - [FP-TS - Typed functional programming in TypeScript](https://gcanti.github.io/fp-ts/) 
 - [Awesome FP JS](https://github.com/stoeffel/awesome-fp-js)
 
