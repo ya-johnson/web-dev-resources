@@ -241,6 +241,10 @@ Inspired by [Awesome Web Development Resources](https://github.com/MarkoDenic/we
 - [Roger Dudler’s Git Guide](https://rogerdudler.github.io/git-guide/)
 - [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
 - [Git Workflow for Solo Projects](https://sdlambert.github.io/2015/04/09/git-workflow-for-solo-development/)
+- [Learn Git Branching - interactive web app](https://learngitbranching.js.org/)
+- [Git like the Pros](https://ooloo.io/project/github-flow)
+- [Git - the simple guide](https://rogerdudler.github.io/git-guide/)
+- [Oh Shit, Git?](https://ohshitgit.com/)
 
 
 ### Architecture
