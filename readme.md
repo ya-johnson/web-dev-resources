@@ -243,11 +243,11 @@ Inspired by [Awesome Web Development Resources](https://github.com/MarkoDenic/we
 - [Git Workflow for Solo Projects](https://sdlambert.github.io/2015/04/09/git-workflow-for-solo-development/)
 - [Learn Git Branching - interactive web app](https://learngitbranching.js.org/)
 - [Git like the Pros](https://ooloo.io/project/github-flow)
-- [Git - the simple guide](https://rogerdudler.github.io/git-guide/)
 - [Oh Shit, Git?](https://ohshitgit.com/)
+- [Git Tower](https://www.git-tower.com/mac)
 
 
-### Architecture
+### Architecture and Design
 
 #### General
 
@@ -265,6 +265,11 @@ Inspired by [Awesome Web Development Resources](https://github.com/MarkoDenic/we
 - [Design Patterns in Javascript ES6](https://github.com/tcorral/Design-Patterns-in-Javascript) - Design Patterns applied to Javascript code.
 - [PatternifyJS - JavaScript Design Patterns](https://github.com/Badacadabra/JavaScript-Design-Patterns) - ES5 + ES6 + CoffeeScript + TypeScript design patterns with some theory, real-world examples and UML diagrams.
 - [Awesome FP JS](https://github.com/stoeffel/awesome-fp-js)
+
+#### Data Structures and Algorithms
+
+- [The Algorithms](https://the-algorithms.com/)
+- [Javascript Algorithms](https://github.com/trekhleb/javascript-algorithms)
 
 #### Functional Programming in JS/TS
 
